@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# React Project with Authentication and Dashboard
+
+
+This is a simple React-based Ecommerce Web Application with authentication.
+
+
+## About
+
+This project is a React-based Ecommerce Web Application with a login feature. It allows users to log in, access a protected area, and interact with ecommerce-related features.
+
+## Features
+
+- **Authentication**: Users can log in to access the ecommerce features.
+- **Ecommerce**: The application features an ecommerce dashboard.
+- **Responsive Design**: The application is designed to be responsive and adapt to various screen sizes.
+  
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
